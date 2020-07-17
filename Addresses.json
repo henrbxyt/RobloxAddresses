@@ -1,1 +1,1 @@
-{"DHosted":[{"Adresses":{"r_lua_print":{"Offset":6233216,"CCV":"Cdecl"},"r_lua_gdm":{"Offset":14926768,"CCV":"ThisCall"},"r_lua_gdm2":{"Offset":14926432,"CCV":"Cdecl"}}}]}
+{"DHosted":[{"Version":"version-0f4d8967e7dc4078","Adresses":{"r_lua_print":{"Offset":6233216,"CCV":"Cdecl"},"r_lua_gdm":{"Offset":14926768,"CCV":"ThisCall"},"r_lua_gdm2":{"Offset":14926432,"CCV":"Cdecl"}}}]}
