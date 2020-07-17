@@ -1,10 +1,1 @@
-{
-  "DHosted": [
-    {
-      "Adresses": {
-        "r_lua_print":{ "Offset": 6233216, "CCV": "Cdecl"}
-        
-      }
-    }
-  ]
-}
+{"DHosted":[{"Adresses":{"r_lua_print":{"Offset":6233216,"CCV":"Cdecl"}}}]}
